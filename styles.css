@@ -3,3 +3,9 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+.logo {
+  width: 154px;
+  margin-left: 810px;
+  padding-top: 45px;
+}

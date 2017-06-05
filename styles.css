@@ -9,3 +9,24 @@ body {
   margin-left: 810px;
   padding-top: 40px;
 }
+
+.btn1,
+.btn2 {
+  position: relative;
+  float: right;
+  margin-top: 20px;
+  padding: 20px;
+  background-color: transparent;
+  border: none;
+  cursor: hand;
+  outline: none;
+  color: #728993;
+  font-size: 15px;
+  line-height: 20px;
+  font-family: sans-serif;
+  font-weight: 300;
+}
+
+.btn1 {
+  margin-right: 815px;
+}
